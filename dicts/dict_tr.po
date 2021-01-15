@@ -91,19 +91,19 @@ msgid "Copy"
 msgstr "Kapyala"
 
 msgid "Copy address"
-msgstr "Adres kopyala"
+msgstr "Adresi kopyala"
 
 msgid "Copy as hex"
 msgstr "HEX kopyala"
 
 msgid "Copy offset"
-msgstr "Ofset kopyala"
+msgstr "Ofseti kopyala"
 
 msgid "Copy size"
-msgstr "Boyut kopyala"
+msgstr "Boyutu kopyala"
 
 msgid "Copy string"
-msgstr "String kopyala"
+msgstr "Dizeyi kopyala"
 
 msgid "Count"
 msgstr "Say"
@@ -115,16 +115,16 @@ msgid "Cryptor"
 msgstr "Cryptor"
 
 msgid "Cursor"
-msgstr "Cursor"
+msgstr "İmleç"
 
 msgid "Database"
-msgstr "Database"
+msgstr "Veritabanı"
 
 msgid "Debug data"
 msgstr "Debug data"
 
 msgid "Debugger"
-msgstr "Debugger"
+msgstr "Hata Ayıkla"
 
 msgid "Deep scan"
 msgstr "Derin tarama"
@@ -148,7 +148,7 @@ msgid "Donate"
 msgstr "Bağış yap"
 
 msgid "Dump"
-msgstr "Dump (dök)"
+msgstr "Döküm"
 
 msgid "Dump to file"
 msgstr "Dosyaya dök"
@@ -160,13 +160,13 @@ msgid "Endianness"
 msgstr "Endianness"
 
 msgid "Entropy"
-msgstr "Entropy"
+msgstr "Entropi"
 
 msgid "Entry point"
-msgstr "Entry point"
+msgstr "Giriş noktası"
 
 msgid "Entry point section"
-msgstr "Entry point seçimi"
+msgstr "Giriş noktası bölümü"
 
 msgid "Error"
 msgstr "Hata"
@@ -226,7 +226,7 @@ msgid "Hash"
 msgstr "Hash"
 
 msgid "Header"
-msgstr "Header"
+msgstr "Başlık"
 
 msgid "Help"
 msgstr "Yardım"
@@ -397,13 +397,13 @@ msgid "Save"
 msgstr "Kaydet"
 
 msgid "Save backup"
-msgstr "Yedek kayfet"
+msgstr "Yedek kaydet"
 
 msgid "Save diagram"
-msgstr "Diyagram kaydet"
+msgstr "Diyagramı kaydet"
 
 msgid "Save dump"
-msgstr "Dump kaydet"
+msgstr "Dökümü kaydet"
 
 msgid "Save file"
 msgstr "Dosya kaydet"
@@ -541,7 +541,7 @@ msgid "Virtual address"
 msgstr "Sanal adres"
 
 msgid "Wildcard"
-msgstr "Genel arama karakteri"
+msgstr "Joker"
 
 msgid "Write error"
 msgstr "Yazma hatası"
